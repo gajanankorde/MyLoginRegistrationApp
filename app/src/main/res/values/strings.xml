@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyLoginRegistrationApp</string>
+
+    <string name="btn_text_signup">Sign Up</string>
+    <string name="btn_text_signin">Sign In</string>
+    <string name="btn_text_signout">Sign Out</string>
+
+    <string name="hint_fullName">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="text_sign_in">Sign In</string>
+    <string name="text_sign_up">Sign Up</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successfull</string>
+
+
+    <string name="text_not_member">Do not have an account? Sign Up</string>
+    <string name="text_already_member">Already have an account? Sign In</string>
+
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Incorrect Email or Password</string>
+
+
+</resources>
